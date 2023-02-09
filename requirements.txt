@@ -1,0 +1,8 @@
+# install for fake names
+faker==15.0.0
+# Install for check code
+black==22.8.0
+pyupgrade==2.38.2
+flake8==5.0.4
+# Install for pre-commit checking
+pre-commit==2.20.0
